@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on SAAS products<br>🤝 I’m looking for help with Cloud Implementation<br>🌱 I’m currently learning T3 Stack<br>💬 Ask me about SAAS products ideas<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
