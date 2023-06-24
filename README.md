@@ -6,7 +6,7 @@
 <!-- Social icons section -->
 
 <p align="center">
-<code><a href="https://www.linkedin.com/in/iamzainjaved" target="_blank" ><img height="27" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="LinkedIn Logo"></a></code>
+<code><a href="https://www.linkedin.com/in/iamzainjaved" target="_top" ><img height="27" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="LinkedIn Logo"></a></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
