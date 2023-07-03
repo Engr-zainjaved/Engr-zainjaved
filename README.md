@@ -10,9 +10,9 @@
 <code><a href="https://www.hackerrank.com/zainjaved742?hr_r=1" target="_top" ><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon.png" alt="HackerRank Logo"></a></code>
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on SAAS products<br>🤝 I’m looking for help with Cloud Implementation<br>🌱 I’m currently learning T3 Stack<br>💬 Ask me about SAAS products ideas<br>⚡ Fun fact
-
+<p align="center">
+As an experienced Full Stack Developer with expertise in MERN Stack ( MongoDB, Express, React, Node) and T3 Stack (NextJS, tRPC, Tailwind CSS,TypeScript,Prisma,NextAuth.js) Looking for a supportive team culture that encourages creativity, innovation, and experimentation.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamzainjaved/) 
