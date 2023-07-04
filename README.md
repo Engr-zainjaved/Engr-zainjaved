@@ -17,7 +17,7 @@ As an experienced Full Stack Developer with expertise in MERN Stack ( MongoDB, E
 <p align="center">
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" height="42px"/> </a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
